@@ -1,4 +1,6 @@
-# CHIP-8 Interpreter (Modern C++)
+# CHIP-8 Emulator (Modern C++)
+
+
 
 ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/7047334/152263381-da2eddf7-3492-4d40-a186-b450cec22218.gif)
 
